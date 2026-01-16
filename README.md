@@ -6,7 +6,7 @@ Curated index of my completed projects in **embedded systems** and **control/rob
 | Project | Area | Tech | Links |
 |---|---|---|---|
 | STM32 + ESP32 Oscilloscope | Embedded | STM32, ESP32, UART, ADC, TFT | [repo](https://github.com/Emajack512/stm32-Esp32-Oscilloscope) · *(photos)* · *(report)* |
-| Dehydrator Oven Controller | Embedded/Control | PCB, firmware, sensors, 3D | repo · photos · report |
+| Dehydrator Oven Controller | Embedded/Control | PCB, firmware, sensors, 3D | [repo](https://github.com/Emajack512/dehydrator-oven-controller) · *(photos)* · *(report)* |
 | Grow Room Controller (CultiSmart) | Embedded/IoT | sensors, control, lighting | repo · photos |
 | Drone Control & Simulation | Control/Robotics | modeling, control, numerical simulation | repo · report |
 
